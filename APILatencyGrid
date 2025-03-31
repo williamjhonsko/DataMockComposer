@@ -1,0 +1,23 @@
+
+---
+
+### **2. 26_APILatencyGrid**  
+**Description:**  
+Scans a list of endpoints and shows uptime, latency, and failures in a tabular layout.
+
+#### **README.md**
+```markdown
+# APILatencyGrid - Multi-Endpoint Response Monitor
+
+APILatencyGrid monitors HTTP endpoints and visualizes latency and status codes in real-time.
+
+## Features
+- Tabular CLI view  
+- Timeout + retry logic  
+- Export to CSV/JSON  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_APILatencyGrid.git
+cd 26_APILatencyGrid
+python monitor.py
