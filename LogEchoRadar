@@ -1,0 +1,23 @@
+
+---
+
+### **3. 26_LogEchoRadar**  
+**Description:**  
+Detects frequent log entries and highlights repeating lines or unusual activity bursts.
+
+#### **README.md**
+```markdown
+# LogEchoRadar - Pattern Frequency Log Analyzer
+
+LogEchoRadar is built for fast pattern discovery in logs, helping you detect noise, bugs, or brute force attempts.
+
+## Features
+- Repetition summary  
+- Keyword burst detection  
+- Log grouping support  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_LogEchoRadar.git
+cd 26_LogEchoRadar
+python analyze.py /var/log/app.log
