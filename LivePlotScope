@@ -1,0 +1,23 @@
+
+---
+
+### **4. 26_LivePlotScope**  
+**Description:**  
+Plots a real-time line graph of incoming numeric values using Matplotlib.
+
+#### **README.md**
+```markdown
+# LivePlotScope - Streaming Data Chart Renderer
+
+LivePlotScope turns live or simulated numeric input into a dynamic, scrollable chart for monitoring or demos.
+
+## Features
+- Real-time scrollable line chart  
+- Adjustable frame rate  
+- Minimal UI  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_LivePlotScope.git
+cd 26_LivePlotScope
+python visualize.py
